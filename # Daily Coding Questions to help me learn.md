@@ -1,7 +1,7 @@
-# Daily Coding Questions to help me learn.
+Daily Coding Questions to help me learn.
 
 
-## Week 1: Variables & Basic Program Structure
+Week 1: Variables & Basic Program Structure
 
 
 1 What is a variable? Write a short sentence about what a variable is. 
