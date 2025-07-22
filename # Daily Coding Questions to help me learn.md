@@ -5,9 +5,13 @@
 
 
 1 What is a variable? Write a short sentence about what a variable is. 
+
 A variable is a place in memory to store and modify data 
 
 2 Simple Variable: Create a variable called favoriteColor and set it to your favorite color. Write what it is.
+
+let favoriteColor = "Black";      {if the color can change}
+const favoriteColor = "Black";     {if the color can not change}
 
 
 3 Using Variables: Write a short program that shows your favorite color by printing: "My favorite color is ____."
