@@ -16,6 +16,8 @@ const favoriteColor = "Black";     {if the color can not change}
 
 3 Using Variables: Write a short program that shows your favorite color by printing: "My favorite color is ____."
 
+const favoriteColor = "Black"
+console.log(`My Favorite color is ${favoriteColor}!!!!`)
 
 4 Program Structure: Write a small program that has two parts: one that sets your name, and another that prints "Hello, my name is ____."
 
