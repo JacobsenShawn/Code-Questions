@@ -21,6 +21,10 @@ console.log(`My Favorite color is ${favoriteColor}!!!!`)
 
 4 Program Structure: Write a small program that has two parts: one that sets your name, and another that prints "Hello, my name is ____."
 
+const name = "Shawn"
+console.log(`My name is ${name}!!!!`)
+
+
 
 5 Changing Variables: Make a variable called age, set it to your age. Change it to your friend's age and print both ages.
 
