@@ -27,7 +27,10 @@ console.log(`My name is ${name}!!!!`)
 
 
 5 Changing Variables: Make a variable called age, set it to your age. Change it to your friend's age and print both ages.
-
+let age = 47;
+console.log(`My age is ${age}.`)
+age = 21;
+console.log(`My friends age is ${age}.`)
 
 6 Multiple Variables: Create variables for your favorite fruit, animal, and hobby. Print a sentence using all of them.
 
