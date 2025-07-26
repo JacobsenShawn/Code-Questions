@@ -34,5 +34,10 @@ console.log(`My friends age is ${age}.`)
 
 6 Multiple Variables: Create variables for your favorite fruit, animal, and hobby. Print a sentence using all of them.
 
+let favoriteFruit = "watermelon";
+let favoriteAnimal = "lion";
+let favoriteHobby = "muisc";
+
+console.log(`Heres a list of some of my favorite things fruit ${favoriteFruit}, favorite animal ${favoriteAnimal}, favorite hobby ${favoriteHobby}.`)
 
 7 Review: Write a short paragraph explaining what you learned about variables and program structure this week.
