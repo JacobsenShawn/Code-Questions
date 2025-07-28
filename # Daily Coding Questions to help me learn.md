@@ -41,3 +41,4 @@ let favoriteHobby = "muisc";
 console.log(`Heres a list of some of my favorite things fruit ${favoriteFruit}, favorite animal ${favoriteAnimal}, favorite hobby ${favoriteHobby}.`)
 
 7 Review: Write a short paragraph explaining what you learned about variables and program structure this week.
+Variables are a way to store data , some are constant and some can be changed later.
