@@ -42,3 +42,6 @@ console.log(`Heres a list of some of my favorite things fruit ${favoriteFruit}, 
 
 7 Review: Write a short paragraph explaining what you learned about variables and program structure this week.
 Variables are a way to store data , some are constant and some can be changed later.
+
+8.What does JavaScript help you do on a website?
+Make things happen when you click buttons  
