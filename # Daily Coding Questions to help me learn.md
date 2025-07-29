@@ -45,3 +45,7 @@ Variables are a way to store data , some are constant and some can be changed la
 
 8.What does JavaScript help you do on a website?
 Make things happen when you click buttons  
+
+
+9. what are some of the basic data types? 
+string, number, boolean, null, symbol
