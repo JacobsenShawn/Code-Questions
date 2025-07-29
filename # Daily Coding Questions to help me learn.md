@@ -36,7 +36,7 @@ console.log(`My friends age is ${age}.`)
 
 let favoriteFruit = "watermelon";
 let favoriteAnimal = "lion";
-let favoriteHobby = "muisc";
+let favoriteHobby = "music";
 
 console.log(`Heres a list of some of my favorite things fruit ${favoriteFruit}, favorite animal ${favoriteAnimal}, favorite hobby ${favoriteHobby}.`)
 
