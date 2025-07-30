@@ -47,5 +47,14 @@ Variables are a way to store data , some are constant and some can be changed la
 Make things happen when you click buttons  
 
 
-9. what are some of the basic data types? 
+9. What are some of the basic data types? 
 string, number, boolean, null, symbol
+
+10. Write a JavaScript function that takes two numbers as arguments and returns their sum.
+function addNumbers(num1, num2) {
+  return num1 + num2;
+}
+
+// Example usage:
+let result = addNumbers(5, 3);
+console.log(result); // Output: 8
