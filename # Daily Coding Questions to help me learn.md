@@ -58,3 +58,6 @@ function addNumbers(num1, num2) {
 // Example usage:
 let result = addNumbers(5, 3);
 console.log(result); // Output: 8
+
+11.Describe Arrow Functions
+Arrow functions were introduced in ES6 and are a shorthand version of writing traditional functions. They save room and can make code more easily readable, are quicker to write, and can make coding more efficient.
