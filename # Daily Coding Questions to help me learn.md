@@ -61,3 +61,8 @@ console.log(result); // Output: 8
 
 11.Describe Arrow Functions
 Arrow functions were introduced in ES6 and are a shorthand version of writing traditional functions. They save room and can make code more easily readable, are quicker to write, and can make coding more efficient.
+
+12. Explain the .pop() and .push() methods using the following array:
+The .pop() method removes the last element in the array and returns it.
+
+The .push() method instead adds any included elements to the end of the array, and returns the new length of that array. 
