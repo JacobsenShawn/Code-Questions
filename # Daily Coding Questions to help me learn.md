@@ -66,3 +66,6 @@ Arrow functions were introduced in ES6 and are a shorthand version of writing tr
 The .pop() method removes the last element in the array and returns it.
 
 The .push() method instead adds any included elements to the end of the array, and returns the new length of that array. 
+
+13. What is the isNaN function?
+The isNaN function determines whether a value is, or is not, a number (Not-a-Number). If the value is not a number, it will evaluate to true, and if the value is a number, it will evaluate to false.
